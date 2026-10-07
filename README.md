@@ -1,4 +1,3 @@
-# Brain-Tumor-Detection-Using-Deep-Learning-
 
 # 🧠 Brain Tumor Detection & Classification Using Deep Learning
 
