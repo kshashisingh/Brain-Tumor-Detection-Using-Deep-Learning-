@@ -790,46 +790,7 @@ This project can be used as a research prototype for:
 - Explainable AI
 - Multimodal Machine Learning
 
----
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-To contribute:
-
-```bash
-# Fork the repository
-
-# Clone your fork
-git clone https://github.com/YOUR_USERNAME/brain-tumor-detection.git
-
-# Create a new branch
-git checkout -b feature/new-feature
-
-# Make your changes
-
-# Commit
-git add .
-git commit -m "Add new feature"
-
-# Push
-git push origin feature/new-feature
-```
-
-Then open a Pull Request.
-
----
-
-# 📜 License
-
-This project is intended for **educational and research purposes**.
-
-Add the appropriate license to the repository depending on how you want others to use, modify, and distribute the project.
-
----
-
-# 👨‍💻 Author
 
 **Shashi Ranjan Kumar**
 
